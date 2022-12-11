@@ -102,5 +102,8 @@
 #     print(c, a, b)
 # elif c > b and b > a:
 #     print(c, b, a)
+
+if 1:
+    print('sdad')
 if __name__ == '__main__':
     pass
